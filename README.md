@@ -13,7 +13,7 @@ have been removed and will be restored on acceptance.
 |---|---|
 | Language | Python 3 (tested with 3.11) |
 | Dependencies | `numpy`, `scipy` (`python3 -m pip install numpy scipy`); TeX Live 2022+ and `pdfinfo` to build the paper |
-| Run time | about 40 seconds on a laptop CPU, no download, no GPU, no API key; the paper builds in about 5 seconds |
+| Run time | about 40 seconds on a CPU server; the paper builds in about 5 seconds |
 | Licence | MIT (`LICENSE`); the bibliographic records come from OpenAlex (CC0) |
 
 ## 1. Quick check (about 40 seconds)
